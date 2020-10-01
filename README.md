@@ -3,4 +3,4 @@ Jogo criado na disciplina de Comércio Eletrônico do curso de TSI - Câmpus Tol
 
 # Alunos
 
-Luiz Gustavo
+[Luiz Gustavo](https://github.com/LuizGustavoWT)
