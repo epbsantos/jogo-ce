@@ -6,3 +6,4 @@ Jogo criado na disciplina de Comércio Eletrônico do curso de TSI - Câmpus Tol
 # Alunos
 
 [Luiz Gustavo](https://github.com/LuizGustavoWT)
+[Samira Cardoso] (https://github.com/SamiraCardoso)
