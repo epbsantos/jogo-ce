@@ -3,7 +3,9 @@ Jogo criado na disciplina de Comércio Eletrônico do curso de TSI - Câmpus Tol
 
 [Exemplo de jogavilidade](https://earth.google.com/web/@17.90693717,-12.41937117,-34606.6327455a,57359668.97d,35y,0.00004064h,18.19296234t,0r/data=CjwSOhIgYmU3N2ZmYzU0MTc1MTFlOGFlOGZkMzdkYTU5MmE0MmEiFnNwbC14LXgteC1zcGxhc2hzY3JlZW4)
 
+Todos os dados do jogo estão em um arquivo sqlite e pode ser editado com o programa [DB Browser for SQLite](https://sqlitebrowser.org/)
+
 # Alunos
 
-[Luiz Gustavo](https://github.com/LuizGustavoWT)
-[Samira Cardoso] (https://github.com/SamiraCardoso)
+*[Luiz Gustavo](https://github.com/LuizGustavoWT)
+*[Samira Cardoso](https://github.com/SamiraCardoso)
