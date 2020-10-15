@@ -7,5 +7,5 @@ Todos os dados do jogo estão em um arquivo sqlite e pode ser editado com o prog
 
 # Alunos
 
-*[Luiz Gustavo](https://github.com/LuizGustavoWT)
-*[Samira Cardoso](https://github.com/SamiraCardoso)
+[Luiz Gustavo](https://github.com/LuizGustavoWT)
+[Samira Cardoso](https://github.com/SamiraCardoso)
